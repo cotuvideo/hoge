@@ -16,5 +16,5 @@ proc                    /proc                   proc    defaults        0 0
 192.168.0.13:/share/tmp  /mnt/tmp  nfs  rsize=8192,wsize=8192,hard,intr 0 0
 uUID=b1f7f699-2633-47f6-975c-a71dda1fea83 /share/www/html/md0     ext4    defaults        1 3
 UUID=36cc43b9-30bb-4cd9-a172-0e75e01dfaa2 /share/md1              ext4    defaults        1 4
-#/dev/md126				/share/www/html/md0		ext4    defaults        1 3
+#/dev/md226				/share/www/html/md0		ext4    defaults        1 3
 #/dev/md127				/share/md1				ext4    defaults        1 4
