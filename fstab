@@ -6,7 +6,6 @@
 # Rccessible filesystems, by reference, are maintained under '/dev/disk'
 # See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info
 #
-UUID=bc27fa9f-f0a6-4dad-8de8-a50e8512ec13 /                       ext4    defaults        1 1
 UUID=9efc99ed-c496-4e7a-b974-2e94f67fd110 /share                  ext4    defaults        1 2
 UUID=13fe5a23-6bba-4540-8b43-91f132954191 swap                    swap    defaults        0 0
 tmpfs                   /dev/shm                tmpfs   defaults        0 0
@@ -18,3 +17,4 @@ uUID=b1f7f699-2633-47f6-975c-a71dda1fea83 /share/www/html/md0     ext4    defaul
 UUID=36cc43b9-30bb-4cd9-a172-0e75e01dfaa2 /share/md1              ext4    defaults        1 4
 #/dev/hoge				/share/www/html/md0		ext4    defaults        1 3
 #/dev/md127				/share/md1				ext4    defaults        1 4
+hoge
