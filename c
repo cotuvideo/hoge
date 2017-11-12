@@ -3,6 +3,7 @@ class ccv
 {
 	function func()
 	{
+		local hoge
 	}
 }
 
