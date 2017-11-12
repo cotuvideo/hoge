@@ -1,4 +1,4 @@
 pi
-ci test
+ci [test]
 ci test 01
 **[local pi]
